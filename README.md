@@ -60,12 +60,6 @@ A full-stack MERN application for managing employee attendance, leave requests, 
 └── README.md
 ```
 
-## Requirements
-
-- Node.js 18 or higher
-- A MongoDB Atlas account (free tier works)
-- npm or yarn
-
 ## Installation
 
 ### 1. Clone / unzip the project
@@ -76,10 +70,9 @@ cd Employee-managment-system-main
 
 ### 2. Set up environment variables
 
-Copy `.env.example` to `.env` inside the `server/` folder:
 
 ```bash
-cp .env.example server/.env
+cp .env server/.env
 ```
 
 Edit `server/.env` with your values (see Environment Variables section below).
