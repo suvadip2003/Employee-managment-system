@@ -127,8 +127,6 @@ CLIENT_URL=http://localhost:5173
 
 ## Running the Application
 
-### Seed the database (optional but recommended)
-
 From the `server/` directory:
 
 ```bash
